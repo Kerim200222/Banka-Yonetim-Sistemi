@@ -40,4 +40,4 @@
 Bu projeyi kurmak için aşağıdaki adımları takip edin:
 1. Depoyu yerel makinenize klonlayın:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Kerim200222/repository.git
